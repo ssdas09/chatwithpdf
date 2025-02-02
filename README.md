@@ -82,10 +82,6 @@ This project allows users to upload multiple PDF files and interactively chat wi
 
 Feel free to fork this repository and submit pull requests!
 
-## License
 
-This project is licensed under the MIT License.
 
-give me the markdown code
 
-give 
